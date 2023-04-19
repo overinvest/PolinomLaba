@@ -1,0 +1,20 @@
+﻿  MyForm.cpp
+C:\Users\artyo\OneDrive\Рабочий стол\Учёба\ОП\C++\LabaPol\Monom.h(62,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\artyo\OneDrive\Рабочий стол\Учёба\ОП\C++\LabaPol\Monom.h(90,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\artyo\OneDrive\Рабочий стол\Учёба\ОП\C++\LabaPol\Monom.h(103,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\artyo\OneDrive\Рабочий стол\Учёба\ОП\C++\LabaPol\Monom.h(139,25): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+C:\Users\artyo\OneDrive\Рабочий стол\Учёба\ОП\C++\LabaPol\Monom.h(145,35): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\artyo\OneDrive\Рабочий стол\Учёба\ОП\C++\LabaPol\Monom.h(212,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\artyo\OneDrive\Рабочий стол\Учёба\ОП\C++\LabaPol\Monom.h(228,33): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\artyo\OneDrive\Рабочий стол\Учёба\ОП\C++\LabaPol\Monom.h(244,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\artyo\OneDrive\Рабочий стол\Учёба\ОП\C++\LabaPol\CircleList.h(24,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artyo\OneDrive\Рабочий стол\Учёба\ОП\C++\LabaPol\CircleList.h(31,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artyo\OneDrive\Рабочий стол\Учёба\ОП\C++\LabaPol\CircleList.h(42,22): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\artyo\OneDrive\Рабочий стол\Учёба\ОП\C++\LabaPol\CircleList.h(72,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artyo\OneDrive\Рабочий стол\Учёба\ОП\C++\LabaPol\CircleList.h(168,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artyo\OneDrive\Рабочий стол\Учёба\ОП\C++\LabaPol\CircleList.h(175,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artyo\OneDrive\Рабочий стол\Учёба\ОП\C++\LabaPol\CircleList.h(194,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artyo\OneDrive\Рабочий стол\Учёба\ОП\C++\LabaPol\CircleList.h(209,16): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artyo\OneDrive\Рабочий стол\Учёба\ОП\C++\LabaPol\CircleList.h(225,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  PolinomForm.vcxproj -> C:\Users\artyo\OneDrive\Рабочий стол\Учёба\ОП\C++\PolinomForm\x64\Release\PolinomForm.exe

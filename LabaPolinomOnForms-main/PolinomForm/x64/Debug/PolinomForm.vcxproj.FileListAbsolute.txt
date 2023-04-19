@@ -1,0 +1,20 @@
+C:\Users\artyo\OneDrive\Рабочий стол\Учёба\ОП\C++\PolinomForm\x64\Debug\PolinomForm.vcxproj.AssemblyReference.cache
+C:\Users\artyo\OneDrive\Рабочий стол\Учёба\ОП\C++\PolinomForm\x64\Debug\PolinomForm.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\artyo\OneDrive\Рабочий стол\Учёба\ОП\C++\PolinomForm\x64\Debug\PolinomForm.MyForm.resources
+C:\Users\artyo\OneDrive\Рабочий стол\Учёба\ОП\C++\PolinomForm\x64\Debug\PolinomForm.vcxproj.GenerateResource.cache
+C:\Users\artyo\OneDrive\Рабочий стол\Учёба\ОП\C++\PolinomForm\x64\Debug\PolinomForm.exe
+C:\Users\kylae\Desktop\Программирование\Лови Аптечку\PolinomForm\x64\Debug\PolinomForm.vcxproj.AssemblyReference.cache
+C:\Users\kylae\Desktop\Программирование\Лови Аптечку\PolinomForm\x64\Debug\PolinomForm.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\kylae\Desktop\Программирование\Лови Аптечку\PolinomForm\x64\Debug\PolinomForm.MyForm.resources
+C:\Users\kylae\Desktop\Программирование\Лови Аптечку\PolinomForm\x64\Debug\PolinomForm.vcxproj.GenerateResource.cache
+C:\Users\kylae\Desktop\Программирование\Лови Аптечку\PolinomForm\x64\Debug\PolinomForm.exe
+C:\Users\kylae\Desktop\Программирование\PolinomForm\x64\Debug\PolinomForm.vcxproj.AssemblyReference.cache
+C:\Users\kylae\Desktop\Программирование\PolinomForm\x64\Debug\PolinomForm.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\kylae\Desktop\Программирование\PolinomForm\x64\Debug\PolinomForm.MyForm.resources
+C:\Users\kylae\Desktop\Программирование\PolinomForm\x64\Debug\PolinomForm.vcxproj.GenerateResource.cache
+C:\Users\kylae\Desktop\Программирование\PolinomForm\x64\Debug\PolinomForm.exe
+C:\Users\danya\Desktop\LabaPolinomOnForms-main\PolinomForm\x64\Debug\PolinomForm.vcxproj.AssemblyReference.cache
+C:\Users\danya\Desktop\LabaPolinomOnForms-main\PolinomForm\x64\Debug\PolinomForm.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\danya\Desktop\LabaPolinomOnForms-main\PolinomForm\x64\Debug\PolinomForm.MyForm.resources
+C:\Users\danya\Desktop\LabaPolinomOnForms-main\PolinomForm\x64\Debug\PolinomForm.vcxproj.GenerateResource.cache
+C:\Users\danya\Desktop\LabaPolinomOnForms-main\PolinomForm\x64\Debug\PolinomForm.exe

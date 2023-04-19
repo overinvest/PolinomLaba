@@ -1,0 +1,5 @@
+C:\Users\artyo\OneDrive\Рабочий стол\Учёба\ОП\C++\PolinomForm\x64\Release\PolinomForm.vcxproj.AssemblyReference.cache
+C:\Users\artyo\OneDrive\Рабочий стол\Учёба\ОП\C++\PolinomForm\x64\Release\PolinomForm.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\artyo\OneDrive\Рабочий стол\Учёба\ОП\C++\PolinomForm\x64\Release\PolinomForm.MyForm.resources
+C:\Users\artyo\OneDrive\Рабочий стол\Учёба\ОП\C++\PolinomForm\x64\Release\PolinomForm.vcxproj.GenerateResource.cache
+C:\Users\artyo\OneDrive\Рабочий стол\Учёба\ОП\C++\PolinomForm\x64\Release\PolinomForm.exe
